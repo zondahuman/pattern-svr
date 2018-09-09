@@ -10,5 +10,5 @@ public class Adaptee {
         System.out.println("hi, adaptered " + param);
     }
 
-    
+
 }

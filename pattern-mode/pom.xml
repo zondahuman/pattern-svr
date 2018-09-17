@@ -12,4 +12,12 @@
     <artifactId>pattern-mode</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <artifactId>pattern-common</artifactId>
+            <groupId>com.abin.lee</groupId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>
